@@ -10,10 +10,13 @@ feature:
     accounting needs. We are ready to tackle any financial challenges that you may
     have as your trusted tax planner and financial advisor.
   feature_item:
-  - title: SEO Optimized
+  - title: BUSINESS TAX PREPARATION
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: |-
+      Accounting
+      Bookkeeping
+      CFO Services
+      Payroll
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
