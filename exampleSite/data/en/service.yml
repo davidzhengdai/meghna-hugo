@@ -10,10 +10,13 @@ service:
       Bookkeeping
       CFO Services
       Payroll
-  - name: Apps Development
+  - name: PERSONAL TAX PREPARATION
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Personal Taxes
+      Wealth Planning
+      Estate Planning
+      ​Elderly Care
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
