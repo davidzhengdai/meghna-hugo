@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: PROVIDED SERVICES
   service_item:
   - name: BUSINESS TAX PREPARATION
     icon: ti-palette
